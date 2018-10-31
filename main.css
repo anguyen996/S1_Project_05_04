@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+/*
+   New Perspectives on HTML5 and CSS3, 7th Edition
+   Tutorial 3
+   Case Problem 4
+
+   Park City Gazette Style Sheet
+   Author: 
+   Date:   
+
+   Filename:         pcg_paper.css
+   Supporting Files: 
+
+*/
+html {
+    background-color: tan;
+
+}
+
+body {
+    min-width: 640px;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+ 
+head {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.double {
+    border: solid;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+nav {
+    text-align: center;
+}
+a {
+    margin-right: 10px;
+    margin-left: 10px;
+}
